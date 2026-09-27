@@ -42,9 +42,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhsa-Rc&show_icons=true&hide_border=true&bg_color=0D0712&title_color=F472B6&text_color=E9D5FF&icon_color=A855F7&rank_icon=github" height="165"/>
-  
- <img src="https://streak-stats.demolab.com/?user=Mhsa-Rc" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Mhsa-Rc&hide_border=true&background=0D0712&ring=F472B6&fire=A855F7&currStreakLabel=F9A8D4&sideLabels=C084FC&dates=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165"/>
 </p>
 
 <br>
