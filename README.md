@@ -23,29 +23,18 @@
 <h2 align="center">🌐 Contact Me</h2>
 
 <p align="center">
-
   <a href="https://t.me/mhsa_rc">
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="45" alt="Telegram"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://instagram.com/mhsa_rc">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45" alt="Instagram"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="mailto:mahsa.raeisi04@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" width="45" alt="Email"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/mahsa-raeisi-05102343b">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
-
 </p>
 
 <br>
